@@ -1,0 +1,12 @@
+11
+This is a scrolling Credits Example.
+The number of the first line tells the
+program how many lines of text are located
+in the file.  So change it to match 
+accordingly.  Other than that, just add
+the form I included and a text file in 
+the applications folder named credits, 
+and it will scroll it, without flickering, 
+and with a shadow to give it a 3d effect.
+
+Tell me what you think
